@@ -5,7 +5,7 @@
 ## Желаемый уровень дохода:
 ### за деньги можно и бесплатно
 
-![](https://avatars.mds.yandex.net/get-zen_doc/98165/pub_5b813d5ec52e1a00a9ed9548_5b813d959dd01100aa7027e4/scale_1200)
+![](img/myPhoto.jpeg)
 
 ### Последнее место работы:
 
